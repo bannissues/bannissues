@@ -7,7 +7,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Davi Banni.
+eu mee chamo Davi Banni, estudo para ser desenvolvedor há um tempo e curso Análise e Desenvolvimento de Sistemas na UNISUAM. Gosto muito da ramificação de front-end, designs alternativos e inspirados em subculturas. Atualmente trabalho na Stone Co. na área de Back Office.
 
 
 <div align="center">
