@@ -15,7 +15,7 @@ Me chamo Davi Banni.
 	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bannissues&theme=jolly&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117"/>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,ts,vue,vscode,git,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,git)](https://skillicons.dev)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bannissues&bg_color=0d1117&color=64339c&line=9fb2e0&point=7e98d5&area=true&hide_border=true)
 
