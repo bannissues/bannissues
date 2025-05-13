@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Davi Banni de Freitas
+# Davi Banni de Freitas
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=64339c&reversal=true&section=header&animation=fadeIn&descAlign=100"/>
 
@@ -7,7 +7,7 @@
 
 **`Desenvolvedor Front-end`**
 
-eu mee chamo Davi Banni, estudo para ser desenvolvedor há um tempo e curso Análise e Desenvolvimento de Sistemas na UNISUAM. Gosto muito da ramificação de front-end, designs alternativos e inspirados em subculturas. Atualmente trabalho na Stone Co. na área de Back Office.
+estudo para ser desenvolvedor há um tempo e curso Análise e Desenvolvimento de Sistemas na UNISUAM. Gosto muito da ramificação de front-end, designs alternativos e inspirados em subculturas. Atualmente trabalho na Stone Co. na área do SOS no Back Office.
 
 
 <div align="center">
